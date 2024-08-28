@@ -1,0 +1,36 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+Conversão de Reais para Dólares
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário um valor em reais e converte esse valor para dólares com base em uma taxa de câmbio fixa de 1 dólar = 5 reais. O programa deve exibir o valor convertido em dólares com duas casas decimais.
+
+Funcionalidades obrigatórias:
+
+1. Leitura do valor em reais fornecido pelo usuário.
+2. Conversão do valor para dólares usando uma taxa de câmbio fixa.
+3. Exibição do valor convertido em dólares com duas casas decimais.
+Tecnologias: Python 3.x
+
+Licença: MIT License
