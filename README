@@ -1,0 +1,49 @@
+# Projeto: Conversão de Reais para Dólares
+
+Este projeto é um programa em Python que converte um valor em reais para dólares com base em uma taxa de câmbio fixa. O objetivo é demonstrar a conversão de moedas e a manipulação de entradas e saídas em Python.
+
+## Índice
+
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar o Projeto](#como-executar-o-projeto)
+- [Exemplos de Uso](#exemplos-de-uso)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
+- [Contato](#contato)
+
+## Descrição
+
+O programa solicita ao usuário que insira um valor em reais e o converte para dólares usando uma taxa de câmbio fixa (1 dólar = 5 reais). O valor convertido é exibido com duas casas decimais.
+
+## Funcionalidades
+
+- Solicita ao usuário que insira um valor em reais.
+- Converte o valor para dólares com base em uma taxa de câmbio fixa.
+- Exibe o valor convertido em dólares com duas casas decimais.
+
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação:** Python 3.x
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Python 3.x instalado.
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Cristina1607/Conversao_de_Moeda.git
+2. Navegue até o diretório do projeto:
+   cd nome-do-repositorio
+3. Execute o programa:
+   python3 nome_do_arquivo.py
+4. Digite o valor em reais quando solicitado.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
